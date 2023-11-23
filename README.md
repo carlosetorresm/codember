@@ -16,6 +16,8 @@ Solutions for the challenges from https://codember.dev/
 | Challenge | Name                                    |                                   |
 | --------- | --------------------------------------- | --------------------------------- |
 | 1         | Encrypted Messages                      | [solution](./challenge-01/)       |
+| 2         | Mini Compiler Challenge                 | [solution](./challenge-02/)       |
+| 3         | Mini Compiler Challenge                 | [solution](./challenge-03/)       |
 
 ## Secrets 🤫
 
@@ -24,11 +26,19 @@ Solutions for the challenges from https://codember.dev/
 | 1      | konami            |                    |
 | 2      | Mail              | advent.js          |
 | 3      | who.png           | Guillermo          |
+| 4      | confetti          |                    |
+| 5      | html              |                    |
+| 6      | magic             |                    |
+| 7      | barrel roll       |                    |
+| 8      | space oddity      |                    |
+| 9      | openAI man        |                    |
 
 ## Run it 🏃💨
 
 1. Clone the project (or download it)
 2. Execute `npm run challenge01` | `python3 challenge-01/main.py`| `dart challenge-01/main.dart` in the terminal to run the solution for the challenge 01
+2. Execute `npm run challenge02` | `python3 challenge-02/main.py`| `dart challenge-02/main.dart` in the terminal to run the solution for the challenge 02
+2. Execute `npm run challenge03` | `python3 challenge-03/main.py`| `dart challenge-03/main.dart` in the terminal to run the solution for the challenge 03
 
 ## Do you want to see more solutions? 👥
 
