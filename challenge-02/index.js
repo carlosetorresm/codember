@@ -1,6 +1,6 @@
 import fs from 'node:fs';
 
-var response = '';
+let response = '';
 fs.readFile('challenge-02/data.txt', 'utf-8', (err, data) => {
     if (err) {
         console.log('archivo inexistente');

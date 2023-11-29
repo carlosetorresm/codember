@@ -17,7 +17,8 @@ Solutions for the challenges from https://codember.dev/
 | --------- | --------------------------------------- | --------------------------------- |
 | 1         | Encrypted Messages                      | [solution](./challenge-01/)       |
 | 2         | Mini Compiler Challenge                 | [solution](./challenge-02/)       |
-| 3         | Mini Compiler Challenge                 | [solution](./challenge-03/)       |
+| 3         | El Desafío del Cifrado Espía            | [solution](./challenge-03/)       |
+| 4         | Hackers dañan sistema de archivos       | [solution](./challenge-04/)       |
 
 ## Secrets 🤫
 
@@ -32,13 +33,15 @@ Solutions for the challenges from https://codember.dev/
 | 7      | barrel roll       |                    |
 | 8      | space oddity      |                    |
 | 9      | openAI man        |                    |
+| 9      | MUUUUUUU          | cowsays            |
 
 ## Run it 🏃💨
 
 1. Clone the project (or download it)
 2. Execute `npm run challenge01` | `python3 challenge-01/main.py`| `dart challenge-01/main.dart` in the terminal to run the solution for the challenge 01
-2. Execute `npm run challenge02` | `python3 challenge-02/main.py`| `dart challenge-02/main.dart` in the terminal to run the solution for the challenge 02
-2. Execute `npm run challenge03` | `python3 challenge-03/main.py`| `dart challenge-03/main.dart` in the terminal to run the solution for the challenge 03
+3. Execute `npm run challenge02` | `python3 challenge-02/main.py`| `dart challenge-02/main.dart` in the terminal to run the solution for the challenge 02
+4. Execute `npm run challenge03` | `python3 challenge-03/main.py`| `dart challenge-03/main.dart` in the terminal to run the solution for the challenge 03
+5. Execute `npm run challenge04` | `python3 challenge-04/main.py`| `dart challenge-04/main.dart` in the terminal to run the solution for the challenge 04
 
 ## Do you want to see more solutions? 👥
 

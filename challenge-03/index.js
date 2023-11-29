@@ -1,7 +1,7 @@
 import fs from 'node:fs';
 import readLine from 'node:readline';
 
-var failedPasswords = [];
+let failedPasswords = [];
 const readStream = fs.createReadStream('challenge-03/data.txt');
 const rl = readLine.createInterface({ input: readStream, crlfDelay: Infinity });
 

@@ -1,7 +1,7 @@
 import fs from 'node:fs';
 
 const map = {};
-var response = '';
+let response = '';
 fs.readFile('challenge-01/data.txt', 'utf-8', (err, data) => {
     if (err) {
         console.log('archivo inexistente');
