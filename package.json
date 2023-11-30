@@ -7,7 +7,8 @@
         "challenge01": "node challenge-01",
         "challenge02": "node challenge-02",
         "challenge03": "node challenge-03",
-        "challenge04": "node challenge-04"
+        "challenge04": "node challenge-04",
+        "challenge05": "node challenge-05"
     },
     "author": "Carlos Eugenio Torres Mota",
     "license": "MIT"

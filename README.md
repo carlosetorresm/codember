@@ -19,6 +19,7 @@ Solutions for the challenges from https://codember.dev/
 | 2         | Mini Compiler Challenge                 | [solution](./challenge-02/)       |
 | 3         | El Desafío del Cifrado Espía            | [solution](./challenge-03/)       |
 | 4         | Hackers dañan sistema de archivos       | [solution](./challenge-04/)       |
+| 5         | El problema final                       | [solution](./challenge-05/)       |
 
 ## Secrets 🤫
 
@@ -34,6 +35,10 @@ Solutions for the challenges from https://codember.dev/
 | 8      | space oddity      |                    |
 | 9      | openAI man        |                    |
 | 9      | MUUUUUUU          | cowsays            |
+| 10     | tetris            |                    |
+| 11     | error             |                    |
+| 12     | ?                 |                    |
+| 13     | adventjs          |                    |
 
 ## Run it 🏃💨
 
@@ -42,6 +47,7 @@ Solutions for the challenges from https://codember.dev/
 3. Execute `npm run challenge02` | `python3 challenge-02/main.py`| `dart challenge-02/main.dart` in the terminal to run the solution for the challenge 02
 4. Execute `npm run challenge03` | `python3 challenge-03/main.py`| `dart challenge-03/main.dart` in the terminal to run the solution for the challenge 03
 5. Execute `npm run challenge04` | `python3 challenge-04/main.py`| `dart challenge-04/main.dart` in the terminal to run the solution for the challenge 04
+6. Execute `npm run challenge05` | `python3 challenge-05/main.py`| `dart challenge-05/main.dart` in the terminal to run the solution for the challenge 05
 
 ## Do you want to see more solutions? 👥
 
